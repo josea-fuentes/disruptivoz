@@ -50,8 +50,15 @@
 }
 
 @media (max-width: 640px) {
+    .container {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+    }
+
     .lineas {
-        max-width: 50%;
+        max-width: 85%;
     }
 
     .titulo {
