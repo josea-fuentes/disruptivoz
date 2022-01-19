@@ -1,1 +1,3 @@
-# disruptivoz
+# DISRUPTIVOZ
+
+Landing page for disruptivoz.com
