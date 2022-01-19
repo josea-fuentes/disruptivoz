@@ -15,7 +15,6 @@
 .lineas {
     margin-top: 100px;
     margin-bottom: 0;
-    size: 50%;
 }
 
 .titulo {
@@ -52,15 +51,15 @@
 
 @media (max-width: 640px) {
     .lineas {
-        size: 50%
+        max-width: 50%;
     }
 
     .titulo {
-        font-size: 30px;
+        font-size: 50px;
     }
 
     .subtitulo {
-        font-size: 15px;
+        font-size: 20px;
     }
 }
 
